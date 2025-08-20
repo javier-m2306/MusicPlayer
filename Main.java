@@ -37,6 +37,7 @@ public class Main{
                 System.out.println("Stop ---> Stops Song");
                 System.out.println("Reset ---> Resets Song");
                 System.out.println("Quit ---> Quits Song");
+                System.out.println("--------------------------------------");
                 System.out.print("Enter your choice: ");
 
                 response = scnr.next().toUpperCase();
