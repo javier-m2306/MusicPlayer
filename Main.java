@@ -41,6 +41,7 @@ public class Main{
                 System.out.print("Enter your choice: ");
 
                 response = scnr.next().toUpperCase();
+                System.out.println();
 
                 switch(response){
                     case "SONG" -> {
